@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabicool
 - 👀 I’m interested in Medicine, Programming, Medical Research and the Human Condition
 - 🌱 I’m currently learning Medicine
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me [saab.hoq@gmail.com](mailto:saab.hoq@gmail.com)
 
 <!---
